@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s2hsKfM0JxwMWPJMeMGJfDYltSFNnyMwqONoo7QYKYrhj8uKNoQu4yn8sz7Kx3eLTkv2IMtUK4CJb5MNsFgKzg==",
+  "success": true,
+  "projectFilePath": "D:\\VSSTUDIO\\Projects\\game\\game\\game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.24\\microsoft.netcore.app.host.win-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

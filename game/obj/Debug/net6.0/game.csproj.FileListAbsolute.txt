@@ -1,0 +1,14 @@
+D:\VSSTUDIO\Projects\game\game\bin\Debug\net6.0\game.exe
+D:\VSSTUDIO\Projects\game\game\bin\Debug\net6.0\game.deps.json
+D:\VSSTUDIO\Projects\game\game\bin\Debug\net6.0\game.runtimeconfig.json
+D:\VSSTUDIO\Projects\game\game\bin\Debug\net6.0\game.dll
+D:\VSSTUDIO\Projects\game\game\bin\Debug\net6.0\game.pdb
+D:\VSSTUDIO\Projects\game\game\obj\Debug\net6.0\game.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSSTUDIO\Projects\game\game\obj\Debug\net6.0\game.AssemblyInfoInputs.cache
+D:\VSSTUDIO\Projects\game\game\obj\Debug\net6.0\game.AssemblyInfo.cs
+D:\VSSTUDIO\Projects\game\game\obj\Debug\net6.0\game.csproj.CoreCompileInputs.cache
+D:\VSSTUDIO\Projects\game\game\obj\Debug\net6.0\game.dll
+D:\VSSTUDIO\Projects\game\game\obj\Debug\net6.0\refint\game.dll
+D:\VSSTUDIO\Projects\game\game\obj\Debug\net6.0\game.pdb
+D:\VSSTUDIO\Projects\game\game\obj\Debug\net6.0\game.genruntimeconfig.cache
+D:\VSSTUDIO\Projects\game\game\obj\Debug\net6.0\ref\game.dll
